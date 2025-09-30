@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import BackToPlanButton from '@/components/content/BackToPlanButton';
 import { Clock, Briefcase, Heart, Users } from 'lucide-react';
 
