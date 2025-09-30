@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import BackToPlanButton from '@/components/content/BackToPlanButton';
 import { BookOpen, Users, Calendar } from 'lucide-react';
 

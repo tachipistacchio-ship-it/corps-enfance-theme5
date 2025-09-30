@@ -1,5 +1,6 @@
+/* eslint-disable react/no-unescaped-entities */
 import BackToPlanButton from '@/components/content/BackToPlanButton';
-import { TrendingUp, Crown, Shield, AlertTriangle } from 'lucide-react';
+import { TrendingUp, Shield, AlertTriangle } from 'lucide-react';
 
 export default function Section1Page() {
   return (

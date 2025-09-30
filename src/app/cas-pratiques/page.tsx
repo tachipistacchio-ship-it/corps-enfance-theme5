@@ -1,9 +1,10 @@
 'use client';
+/* eslint-disable react/no-unescaped-entities */
 
 import { useState } from 'react';
 import Link from 'next/link';
 import BackToPlanButton from '@/components/content/BackToPlanButton';
-import { FileText, CheckCircle, Eye, EyeOff, Lightbulb, Target, BookOpen } from 'lucide-react';
+import { FileText, CheckCircle, Eye, EyeOff, Lightbulb, Target } from 'lucide-react';
 
 interface CasPratique {
   id: number;
