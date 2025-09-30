@@ -1,5 +1,6 @@
+/* eslint-disable react/no-unescaped-entities */
 import BackToPlanButton from '@/components/content/BackToPlanButton';
-import { Users, Heart, Scale, Lightbulb } from 'lucide-react';
+import { Users, Scale, Lightbulb } from 'lucide-react';
 
 export default function Section3Page() {
   return (
