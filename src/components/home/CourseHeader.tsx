@@ -1,4 +1,5 @@
 'use client';
+/* eslint-disable react/no-unescaped-entities */
 
 import { BookOpen, Clock, Target } from 'lucide-react';
 

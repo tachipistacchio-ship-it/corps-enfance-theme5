@@ -1,4 +1,5 @@
 'use client';
+/* eslint-disable react/no-unescaped-entities */
 
 import { Target, Rocket, TrendingUp, Users, Brain, HelpCircle, Award } from 'lucide-react';
 import SectionBlock from './SectionBlock';
